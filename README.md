@@ -1,7 +1,7 @@
-"#Project-2024" 
 Design and Development of a Vulnerability Scanning Tool for SQL Injection and XSS
 
 Abstract
+
 In today's digital world, the security of web-based systems has become one of the critical
 issues for organizations and businesses. Vulnerabilities such as SQL Injection and XSS can lead
 to security breaches and unauthorized access to sensitive data. The VulneraXSQL project is
