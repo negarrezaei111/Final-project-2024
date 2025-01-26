@@ -1,5 +1,8 @@
 Design and Development of a Vulnerability Scanning Tool for SQL Injection and XSS
 
+Prepared by:
+Ayda Alimohammadi & Negar Rezaei
+
 Abstract
 
 In today's digital world, the security of web-based systems has become one of the critical
